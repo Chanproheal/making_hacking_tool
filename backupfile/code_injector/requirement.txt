@@ -1,2 +1,0 @@
-sudo apt update
-sudo pip install netfilterqueue
